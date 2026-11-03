@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Belanja Sekolah Per Triwulan (AppSheet BOSP)",
+  "description": "Aplikasi pengelolaan dan penginputan belanja sekolah per triwulan berbasis gaya AppSheet untuk dana BOSP/BOS dengan rekapitulasi, kuitansi, dan monitoring pagu anggaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
